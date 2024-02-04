@@ -1,0 +1,21 @@
+{
+    "Keybind": "RButton",
+    "Saturation": "11",
+    "AutoCurveX": "0.214",
+    "AutoCurveY": "0.210",
+    "FOV": "50",
+    "RefreshRate": "1000",
+    "XSmooth": "80",
+    "YSmooth": "70",
+    "FOVOffsetX": "2",
+    "FOVOffsetY": "2",
+    "RotationX": "3",
+    "Ping": "1000",
+    "DontChange": "4",
+    "DontChangeX": "4",
+    "Random": "250",
+    "RandomX": "250",
+    "Mode": "Ideal",
+    "PredictionX": 180,
+    "PredictionY": 160
+}
